@@ -1,6 +1,6 @@
 # Shop-shop-redux  
 ### Description 
-A MERN stack e-commerce site that has been refactor to use Redux sto manage glodal state.
+A MERN stack e-commerce site that has been refactored to use Redux sto manage glodal state.
 
 ## Deployed version can be found at 
 ## Preview
