@@ -2,7 +2,7 @@
 ### Description 
 A MERN stack e-commerce site that has been refactored to use Redux to manage glodal state.
 
-## Deployed version can be found at 
+## Deployed version can be found at https://mysterious-ocean-41041.herokuapp.com/
 ## Preview
 ![](https://github.com/Jonzee1914/shop-shop/blob/main/shop-shop-redux.gif?raw=true)
 
