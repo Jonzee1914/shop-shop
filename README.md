@@ -4,7 +4,7 @@ A MERN stack e-commerce site that has been refactor to use Redux sto manage glod
 
 ## Deployed version can be found at 
 ## Preview
-![]()
+![](https://github.com/Jonzee1914/shop-shop/blob/main/shop-shop-redux.gif?raw=true)
 
 
 ## Table of Contents 
